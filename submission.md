@@ -97,6 +97,27 @@
    - X-Xss-Protection: 0
      - it disables the browser's built-in cross-site scripting filter
 
-10. 
+10. 1. ![image](3-10-1.png)
+    2. - Eliminate render-blocking resources
+          - It means that there are resources blocking the rendering path, causing a delay in rendering. It suggests delivering critical styles/scripts inline and defer non-critical styles/scripts to increase rendering speed.
+        - Reduce unused CSS
+          - There are style rules unneeded to render a page correctly but are causing delays in the rendering. It suggests removing these unnecessary style rules.
+    3. ![image](3-10-3.png)
+    They got a 40 in performance score while UCSD got a 59.
+    4. While SDSU has a lower performance score, they did score higher in the other three criteria, with a 100 in accessbility especially. If we're prioritizing accessibility, then UCSD certainly has more work to do. But if we prioritize performance, then SDSU needs to work on their site.
 
+11. 1. - Chrome: https://chromestatus.com/
+       - Firefox: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Platform_status
+       - Edge: https://docs.microsoft.com/en-us/microsoft-edge/platform/status/ 
+       - Safari: https://webkit.org/status/ 
+   2. Chrome 53
+   3. August 2016
+   4. The public release was on Dec 11, 2008, which makes Chrome 16 years old (turning 17 this year). 
 
+12. 1. ![image](3-12-1.png)
+    2. It seems that the older browsers don't support modern protocols, so, when developing sites, we should prioritize support for new versions of browsers. 
+
+13. 1. It's specifying "nosniff".
+    2. Cloudflare is a service that improves the security and performance of websites. It uses an edge network that provides content and other services as close to users as possible to ensure the speed of the delivery of information. It also provides security by protecting Internet properties from malicious activities like DDoS attacks and malicious bots.
+
+14. 
