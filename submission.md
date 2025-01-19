@@ -165,3 +165,9 @@
        - .adnxs.com
        - .3lift.com	
        - .1rx.io
+
+## Extra Credit
+
+1. Subresource Integrity is a helpful concept because it protects your code, like the CSS file, from unexpected tampering or modifications through checking the file's cryptographic hash against the specified value. It can prevent malicious or unintended modifications from affecting the website.\
+2. ![image](ec-2-3-1.png)
+   ![image](ec-2-3-2.png)
