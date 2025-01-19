@@ -2,8 +2,9 @@
 
 ## Part 1:
 
-1. ![image](1-1.png)
-   ### Link to Site: https://astonishing-mandazi-0885a4.netlify.app
+1. ### Link to Site: https://astonishing-mandazi-0885a4.netlify.app
+   ![image](1-1.png)
+   
 2. 1. - HTML: 1
       - CSS: 2
       - JS: 4
