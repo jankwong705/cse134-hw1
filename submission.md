@@ -1,8 +1,9 @@
-# Link to Site: https://astonishing-mandazi-0885a4.netlify.app
+
 
 ## Part 1:
 
 1. ![image](1-1.png)
+   ### Link to Site: https://astonishing-mandazi-0885a4.netlify.app
 2. 1. - HTML: 1
       - CSS: 2
       - JS: 4
@@ -10,9 +11,9 @@
       - Images: 10
       - Media: 1
       - Other (vnd.microsoft.icon): 1
-    2. Total requests: 20
-    3. 6.8 MB
-    4. ![image](1-2-4.png)
+    1. Total requests: 20
+    2. 6.8 MB
+    3. ![image](1-2-4.png)
  3. ![image](1-3.png)
 
 ## Part 2:
@@ -110,9 +111,9 @@
        - Firefox: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Platform_status
        - Edge: https://docs.microsoft.com/en-us/microsoft-edge/platform/status/ 
        - Safari: https://webkit.org/status/ 
-   2. Chrome 53
-   3. August 2016
-   4. The public release was on Dec 11, 2008, which makes Chrome 16 years old (turning 17 this year). 
+    2. Chrome 53
+    3. August 2016
+    4. The public release was on Dec 11, 2008, which makes Chrome 16 years old (turning 17 this year). 
 
 12. 1. ![image](3-12-1.png)
     2. It seems that the older browsers don't support modern protocols, so, when developing sites, we should prioritize support for new versions of browsers. 
@@ -120,4 +121,47 @@
 13. 1. It's specifying "nosniff".
     2. Cloudflare is a service that improves the security and performance of websites. It uses an edge network that provides content and other services as close to users as possible to ensure the speed of the delivery of information. It also provides security by protecting Internet properties from malicious activities like DDoS attacks and malicious bots.
 
-14. 
+14. 1. 47
+    2. 8
+    3. - .doubleclick.net
+       - .google.com
+       - .ipredictive.com
+       - .linkedin.com
+       - .myfonts.net
+       - .ucsd.edu
+       - .youtube.com
+       - www.google.com
+    4. 74
+    5. 32
+    6. - www.sdsu.edu
+       - www.clarity.ms
+       - sc-static.net
+       - .youtube.com
+       - .yahoo.com
+       - .tapad.com
+       - .snapchat.com
+       - .smaato.net
+       - .simpli.fi
+       - .sharethrough.com
+       - .sdsu.edu
+       - .rubiconproject.com
+       - .rlcdn.com
+       - .pubmatic.com
+       - .pro-market.net
+       - .pippio.com
+       - .openx.net
+       - .lijit.com
+       - .intentiq.com
+       - .exelator.com
+       - .doubleclick.net
+       - .crwdcntrl.net
+       - .clarity.ms
+       - .c.clarity.ms
+       - .c.bing.com
+       - .bing.com
+       - .bfmio.com
+       - .agkn.com
+       - .ads.stickyadstv.com
+       - .adnxs.com
+       - .3lift.com	
+       - .1rx.io
