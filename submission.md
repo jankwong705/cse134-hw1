@@ -85,10 +85,18 @@
    The UI here, instead of being the computer UI, becomes the UI for cell phones. 
 
 9. - X-Content-Type-Options: nosniff
+      - it tells the browser to always use the MIME type declared in the Content-Type header instead of trying to determine the MIME type based on the file's content. 
    - X-Download-Options: noopen
+     - it tells the browswer to not open the downloaded file on the browswer but execute the Save option
    - X-Frame-Options: DENY
+     - it prevents a page from being displayed in a frame
    - X-Permitted-Cross-Domain-Policies: none
+     - this header limits which data external resources can access their domain, and by setting it to none, it allows other domains to embed the application's data in their content
    - X-Render-Origin-Server: Render
+     - this header identifies the origin server or service that processed a particular request
    - X-Xss-Protection: 0
+     - it disables the browser's built-in cross-site scripting filter
+
+10. 
 
 
